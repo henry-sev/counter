@@ -1,0 +1,24 @@
+main {
+  margin: 0;
+  padding: 0;
+  width: 350px;
+  margin: 20px auto;
+}
+
+#number {
+  margin: 0;
+  text-align: center;
+  font-size: 200px;
+  color: #93CFF9;
+}
+
+.count_button {
+  display: flex;
+  justify-content: space-between;
+}
+
+.count {
+  height: 50px;
+  width: 50px;
+  font-size: 40px
+}
